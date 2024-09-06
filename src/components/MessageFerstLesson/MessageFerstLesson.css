@@ -1,0 +1,6 @@
+.message {
+  margin-left: calc(60% - 570px);
+  margin-right: calc(60% - 570px);
+  margin-top: 50px;
+  text-align: center;
+}
